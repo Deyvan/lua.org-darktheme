@@ -21,4 +21,7 @@ a:link:hover, a:visited:hover {
 	color: #000000 ;
 	border-radius: 4px ;
 }
+
+a:visited{
+	color: #3535F0 ;
 }
