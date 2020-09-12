@@ -1,0 +1,24 @@
+@-moz-document domain("lua.org") {
+html {
+    background: #101012;
+}
+
+body {
+    background-color: #101012;
+    color: #B0B0B0;
+}
+
+h1, h2, h3, h4 {
+	color: #7070F0;
+}
+
+a:link {
+	color: #7070F0 ;
+}
+
+a:link:hover, a:visited:hover {
+	background-color: #A0A0FF ;
+	color: #000000 ;
+	border-radius: 4px ;
+}
+}
